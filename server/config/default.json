@@ -1,4 +1,4 @@
 {
     "serverPort": 5000,
-    "dbURL": "set your db url here" 
+    "dbURL": "mongodb://localhost:27017"
 }
